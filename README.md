@@ -4,6 +4,14 @@
 Essa API gerencia operações de pagamentos, como criação, atualização de status, consulta e exclusão lógica.
 A base já está pré-carregada com registros de exemplo.
 
+## 📚 Tecnologias Utilizadas
+Java 17+
+Spring Boot
+JPA (Hibernate)
+Banco de dados H2 (ou adaptável para outros bancos)
+Maven
+Lombok
+
 ## 📂 Endpoints
 
 ### 1. Criar um novo pagamento
