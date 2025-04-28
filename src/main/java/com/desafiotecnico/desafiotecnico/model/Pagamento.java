@@ -17,7 +17,7 @@ public class Pagamento {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    private Integer codigoDebito;
+    private String codigoDebito;
     private String cpfOuCnpj;
     private String metodoPagamento;
     private String numeroCartao;
